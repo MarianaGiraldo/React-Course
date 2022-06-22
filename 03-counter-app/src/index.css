@@ -1,0 +1,12 @@
+html, body {
+    color:aliceblue;
+    background-color: #21232A;
+    font-family: Helvetica, sans-serif;
+    padding: 5%;
+}
+button {
+    padding: 5px;
+    background-color: aquamarine;
+    margin: 15px;
+    font-size: 15px;
+}
